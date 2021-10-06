@@ -1,1 +1,1 @@
-This is a readme file for the tutorial repository but i edited it .
+This is a readme file for the tutorial repository.
